@@ -1,0 +1,110 @@
+[
+    {
+        "type": "click",
+        "x": 1048,
+        "y": 1060,
+        "time": 2.573234796524048
+    },
+    {
+        "type": "click",
+        "x": 871,
+        "y": 854,
+        "time": 4.026285409927368
+    },
+    {
+        "type": "key",
+        "key": "h",
+        "time": 4.949124336242676
+    },
+    {
+        "type": "key",
+        "key": "e",
+        "time": 5.18772292137146
+    },
+    {
+        "type": "key",
+        "key": "l",
+        "time": 5.406482458114624
+    },
+    {
+        "type": "key",
+        "key": "l",
+        "time": 5.547818899154663
+    },
+    {
+        "type": "key",
+        "key": "o",
+        "time": 5.73292088508606
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.120913505554199
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.626385927200317
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.65637469291687
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.686618804931641
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.717041730880737
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.747112989425659
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.77744460105896
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.8079588413238525
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.838486194610596
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.868773937225342
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.899030685424805
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.929064989089966
+    },
+    {
+        "type": "key",
+        "key": "Key.backspace",
+        "time": 6.9597320556640625
+    },
+    {
+        "type": "click",
+        "x": 1264,
+        "y": 1079,
+        "time": 7.991588592529297
+    }
+]
