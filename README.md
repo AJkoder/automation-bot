@@ -10,7 +10,7 @@ Features
 
 Getting Started
 
-bash
+```bash
 pip install pynput pyautogui keyboard
 python recorder.py   # Press ESC to stop recording
 python player.py     # Replays recorded actions
